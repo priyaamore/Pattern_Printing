@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class HalfPyramidChar {
     public static void main(String[] args) {
+        // take input
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of rows for the character half pyramid: ");
         int rows = scanner.nextInt();
