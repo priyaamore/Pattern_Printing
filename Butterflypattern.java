@@ -1,6 +1,5 @@
 package Pattern_Printing;
 
-
 public class Butterflypattern {
     
     public static void printButterfly(int n) {
